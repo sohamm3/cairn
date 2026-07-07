@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+*.log
+.DS_Store
+
+# local working notes
+allPromptsAndResponsesAfter.md
+prompANDresponse1-2.md
+handoff1-2.md
+INTERVIEW_QA.md
+
+# local dev helper (TCP forward to WSL-local Ollama)
+scratch_forward.py

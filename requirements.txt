@@ -1,0 +1,14 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pymongo==4.10.1
+psycopg[binary]==3.2.3
+pgvector==0.3.6
+redis==5.2.1
+sentence-transformers==3.3.1
+prometheus-client==0.21.1
+tenacity==9.0.0
+pybreaker==1.2.0
+pydantic==2.10.4
+pydantic-settings==2.7.0
+pytest==8.3.4
+httpx==0.28.1
