@@ -11,10 +11,11 @@ venv/
 .DS_Store
 
 # local working notes
-allPromptsAndResponsesAfter.md
-prompANDresponse1-2.md
-handoff1-2.md
-INTERVIEW_QA.md
+detailX.md
+detail1.md
+detail1.1.md
+qna.md
+projectMetrics.md
 
 # local dev helper (TCP forward to WSL-local Ollama)
 scratch_forward.py
